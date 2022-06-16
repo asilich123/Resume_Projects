@@ -1,4 +1,4 @@
-## Santa Fe Ranch Explanation
+## Santa Fe Ranch Explaination
 
 Given a time limit of 6 hours with the included case study materials, I was tasked with researching market data, making local growth assumptions, and creating this entire pro forma from scratch. 
 
