@@ -14,13 +14,13 @@ My delievered final products are "SFR Excel Pro Forma" and "SFR Summary Letter".
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Summary%20Dashboard.png?raw=true)
 
 ## Pro Forma
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Pro%20Forma.png?raw=true)
 
 ## Unit Mix
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Unit%20Mix.png?raw=true)
 
 ## Sensitivity Table
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Sensitivity%20Table.png?raw=true)
 
 ## Amortization Table
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Amortization%20Table.png?raw=true)
