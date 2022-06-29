@@ -1,10 +1,10 @@
 # Red Bull Excel Dashboard
 
-For this project I was tasked with creating two visually appealing dashboards given a data set and a mapping table that needed to be index-matched together.
+**The Task:** Create two visually appealing dashboards given a data set and a mapping table that needed to be index-matched together.
 
-This project highlights my abilities with pivot tables, pivot graphs, slicers, Excel dashboard visualization, and index-match functions.
+**Highlighted Abilities:** PivotTables, PivotCharts, slicers, Excel dashboard visualization, and index-match functions.
 
-Specific directions for this case study are included in the 3rd worksheet within the Excel workbook.
+**Notes:** Specific directions for this case study are included in the 3rd worksheet within the Excel workbook.
 
 
 ## Dashboard 1
