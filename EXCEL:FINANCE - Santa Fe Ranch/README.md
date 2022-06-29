@@ -1,8 +1,8 @@
 # Santa Fe Ranch Explaination
 
-**Task:** Given a **time limit of 6 hours**, I was tasked with researching market data, making local growth assumptions, writing up a pitch summary, and creating **this entire pro forma from scratch**. 
+**The Task:** Given a **time limit of 6 hours**, I was tasked with researching market data, making local growth assumptions, writing up a pitch summary, and creating **this entire pro forma from scratch**. 
 
-**Demonstrated Skills:** Commercial Real Estate Finance, Market Research, Excel Financial Functions, Creating an Automated Summary Dashboard, a Full Pro Forma, a Unit Mix Table, a Sensitivity Table, and an Amoritization Table under a time constraint. 
+**Highlighted Skills:** Commercial Real Estate Finance, Market Research, Excel Financial Functions, Creating an Automated Summary Dashboard, a Full Pro Forma, a Unit Mix Table, a Sensitivity Table, and an Amoritization Table under a time constraint. 
 
 **Notes:** Specifics instructions provided to me regarding the case study are found within "SFR Instructions". The case specific details provided for the investment opportunity are found within "SFR Offer Memorandum". 
 
