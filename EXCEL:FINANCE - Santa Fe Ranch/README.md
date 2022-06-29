@@ -11,7 +11,7 @@ My delievered final products are "SFR Excel Pro Forma" and "SFR Summary Letter".
 
 
 ## Summary Dashboard
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Summary%20Dashboard.png?raw=true)
 
 ## Pro Forma
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:DASHBOARD%20-%20Red%20Bull/Dashboard%20Images/Dashboard%201.png?raw=true)
