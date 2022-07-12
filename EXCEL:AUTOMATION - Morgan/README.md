@@ -7,5 +7,5 @@
 **Notes:** To update this dashboard, the only steps required are inserting new data, and updating today's date. 
 
 
-## Dashboard 1
+## Dashboard
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL:AUTOMATION%20-%20Morgan/Images/Dashboard.png?raw=true)
