@@ -1,7 +1,7 @@
 # Resume Folder
 
-These are projects that demonstrate skills highlighted in my resume.<br />
-<br />
+These are projects that demonstrate skills highlighted in my resume.
+
 Within each folder you will find a short explaination of the project, my skills demonstrated, and the files associated with it. 
 
 ## Resume
