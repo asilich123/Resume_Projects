@@ -8,6 +8,5 @@
 
 Previously this purchase price value would be found by roughly approximating it, several grand up and down at a time. This would be performed until we reached a value close enough to 10% AROI that we were satisified. While this task typically doesn't take more than a minute or two, it's performed over 40 times a day, causing this macro to save a minimum of a half an hour of productivity time per day. 
 
-
-## Dashboard
+## VBA Code
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/VBA:MACROS%20-%20Purchase%20Price%20Goal%20Seek/PP_Macro_Image.png?raw=true)

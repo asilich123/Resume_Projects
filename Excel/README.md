@@ -10,5 +10,8 @@ Below are some quick snapshots of some of the things I can do with Excel at a gl
 ## SFR Pro Forma -- 1 of 5 parts built under a strict time constraint
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/EXCEL:FINANCE%20-%20Santa%20Fe%20Ranch/Images/Pro%20Forma.png?raw=true)
 
+## Goal Seek Macro Written in VBA
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/VBA:MACROS%20-%20Purchase%20Price%20Goal%20Seek/PP_Macro_Image.png?raw=true)
+
 ## Fully Automated Morgan Dashboard
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/EXCEL:AUTOMATION%20-%20Morgan/Images/Dashboard.png?raw=true)
