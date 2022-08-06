@@ -10,4 +10,4 @@ Previously this purchase price value would be found by roughly approximating it,
 
 
 ## Dashboard
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL/EXCEL:AUTOMATION%20-%20Morgan/Images/Dashboard.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/VBA:MACROS%20-%20Purchase%20Price%20Goal%20Seek/PP_Macro_Image.png?raw=true)

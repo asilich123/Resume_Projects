@@ -8,4 +8,4 @@
 
 
 ## Dashboard
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/EXCEL/EXCEL:AUTOMATION%20-%20Morgan/Images/Dashboard.png?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Excel/EXCEL:AUTOMATION%20-%20Morgan/Images/Dashboard.png?raw=true)
