@@ -4,7 +4,7 @@
 
 **Highlighted Abilities:** TF Hub, Python, TensorFlow, NumPy, MatplotLib, Jupyter, and an understanding of Tensors, Arrays, and basic ML Computer Vision.
 
-**Notes:** Feel free to download and play around with it yourself. The file contains descriptive documentation that'll walk you through how it works and how to create your own style transfered images. 
+**Notes:** Feel free to download and play around with it yourself. The file contains hand-written descriptive documentation that'll walk you through how it works and how to create your own style transferred images. 
 
 Check below for style transfer examples!
 
