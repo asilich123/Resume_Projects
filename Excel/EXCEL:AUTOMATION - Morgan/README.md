@@ -4,7 +4,7 @@
 
 **Highlighted Abilities:** Full Excel automation, advanced formulas and functions, dashboard visualization.
 
-**Notes:** To update this dashboard, the only step required is updating the data. 
+**Notes:** To update this dashboard, the only step required is inserting new data. 
 
 
 ## Dashboard
