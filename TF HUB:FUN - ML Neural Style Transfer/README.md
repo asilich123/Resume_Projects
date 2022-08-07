@@ -10,4 +10,7 @@ Check below for style transfer examples!
 
 
 ## Collage 1
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Hudson%20Collage.png?raw=true)
+# ![alt text]([1]?raw=true)
+
+[1]: https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Hudson%20Collage.png
+
