@@ -1,4 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
 SELECT 
 	COUNT(a.[PID]) as NumOfOffers, 
 	b.[PCode], 
