@@ -1,6 +1,6 @@
 # SQL Queries (WIP)
 
-I regularly wrote SQL queries to insert, pull, and manipulate data from a database with hundreds of thousands of records. Below are a few examples that demonstrate some of my range with a variety of SQL tasks.
+Here you're find some of the many SQL queries I regularly wrote to insert, pull, and manipulate data from a database with hundreds of thousands of records. Below are a few examples that demonstrate some of my range with a variety of SQL tasks.
 
 **Note:** All SQL Queries are written to operate in MS SQL Server.
 
@@ -8,7 +8,7 @@ I regularly wrote SQL queries to insert, pull, and manipulate data from a databa
 ## Query 1
 **The Task:** Create a database and table to insert property outliers in for further data mining. 
 **Highlighted Abilities:** Create databases and tables, define fields with various data types and constraints, and assigning keys.
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Create%20Database%20%2B%20Constraints?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Create%20Database%20%2B%20Constraints.png?raw=true)
 
 ## Query 2
 **The Task:** 
@@ -18,4 +18,4 @@ I regularly wrote SQL queries to insert, pull, and manipulate data from a databa
 ## Query 3
 **The Task:** 
 **Highlighted Abilities:** 
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Group%20By%20%2B%20Aggregate%20Functions?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Group%20By%20%2B%20Aggregate%20Functions.png?raw=true)
