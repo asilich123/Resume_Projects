@@ -13,10 +13,10 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Create%20Database%20%2B%20Constraints.png?raw=true)
 
-## SQL WIP 
-**The Task:** C
+## AROI Heat Map
+**The Task:** To pull data that can be directly inserted into a heat map which displays a visual geographic representation of various KPIs.
 
-**Highlighted Abilities:** C
+**Highlighted Abilities:** Declaring variables, formatting different data types, and concatenating
 
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Concatenate%20%2B%20Variables%20%2B%20Format.png?raw=true)
 
