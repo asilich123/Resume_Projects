@@ -6,19 +6,19 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 
 
 
+## AROI Heat Map
+**The Task:** To pull data that can be directly inserted into a heat map which displays a visual geographic representation of various KPIs.
+
+**Highlighted Abilities:** Declaring variables, formatting different data types, and concatenating.
+
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Concatenate%20%2B%20Variables%20%2B%20Format.png?raw=true)
+
 ## Database Creation
 **The Task:** Create a database and table to insert property outliers for further data mining.
 
 **Highlighted Abilities:** Create databases and tables, define fields with various data types and constraints, and assigning keys.
 
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Create%20Database%20%2B%20Constraints.png?raw=true)
-
-## AROI Heat Map
-**The Task:** To pull data that can be directly inserted into a heat map which displays a visual geographic representation of various KPIs.
-
-**Highlighted Abilities:** Declaring variables, formatting different data types, and concatenating
-
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Concatenate%20%2B%20Variables%20%2B%20Format.png?raw=true)
 
 ## Dashboard Updating
 **The Task:** To pull data on all properties in the listing phase. This data is used to insert and update an automated dashboard I created in Excel that is sent to company partners and senior management. 
