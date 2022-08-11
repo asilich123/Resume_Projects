@@ -10,16 +10,16 @@ Check below for style transfer examples!
 
 
 ## Los Angeles City Scape Collage
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Los%20Angeles%20Collage.png?raw=true)
+# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Los%20Angeles%20Collage.png?raw=true)
  
 ## Collage of Hudson the Dog
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Hudson%20Collage.png?raw=true)
+# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Hudson%20Collage.png?raw=true)
 
 ## Profile Picture Collage
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Adrian%20Collage.png?raw=true)
+# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Adrian%20Collage.png?raw=true)
 
 ## Collage of My Pups
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Dogs%20Collage.png?raw=true)
+# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Dogs%20Collage.png?raw=true)
 
 ## Abstract Art Collage
-# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/TF%20HUB:FUN%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Abstract%20Collage.png?raw=true)
+# ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Abstract%20Collage.png?raw=true)
