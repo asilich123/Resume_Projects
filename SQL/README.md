@@ -4,7 +4,6 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 
 **Note:** All SQL Queries are written to operate in MS SQL Server.
 
-<br />
 
 ## AROI Heat Map
 **The Task:** To pull data that can be directly inserted into a heat map which displays a visual geographic representation of various KPIs.
@@ -12,6 +11,8 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 **Highlighted Abilities:** Declaring variables, formatting different data types, and concatenating.
 
 ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/SQL/Images/Concatenate%20%2B%20Variables%20%2B%20Format.png?raw=true)
+
+<br />
 
 ## Database Creation
 **The Task:** Create a database and table to insert property outliers for further data mining.
