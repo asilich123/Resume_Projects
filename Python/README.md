@@ -1,6 +1,6 @@
 # Python :snake:
 
-Here you'll find projects that demonstrate my skills with Python and some of its various modules such as Pandas, NumPy, and MatplotLib. 
+Here you'll find projects that demonstrate my skills with Python as well as some of its various modules such as Pandas, NumPy, and MatplotLib. 
 
 
 ## Neural Network Style Transfer - Los Angeles City Scape Collage
