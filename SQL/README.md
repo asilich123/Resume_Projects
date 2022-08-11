@@ -4,7 +4,7 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 
 **Note:** All SQL Queries are written to operate in MS SQL Server.
 
-
+<br />
 
 ## AROI Heat Map
 **The Task:** To pull data that can be directly inserted into a heat map which displays a visual geographic representation of various KPIs.
