@@ -33,7 +33,7 @@ Here you're find some of the many SQL queries I regularly wrote to insert, pull,
 <br />
 
 ## Disposition Analysis
-**The Task:** To pull data on all properties that are set for or have completed disposition by the number of offers they recieved and the average price offered for further product-type analysis. 
+**The Task:** To pull data on all properties within a specified time period that are set for or have completed disposition by the number of offers they recieved and the average price offered for further product-type analysis. 
 
 **Highlighted Abilities:** Using Group By alongside Aggregate Functions to pull telling data.
 
