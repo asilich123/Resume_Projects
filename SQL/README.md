@@ -1,4 +1,4 @@
-# SQL Queries
+# SQL Queries :open_file_folder:
 
 Here you're find some of the many SQL queries I regularly wrote to insert, pull, and manipulate data from a database with hundreds of thousands of records. Below are a few examples that demonstrate some of my range with a variety of SQL tasks.
 

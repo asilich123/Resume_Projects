@@ -1,4 +1,4 @@
-# Excel Projects
+# Excel Projects :chart_with_upwards_trend:
 
 Here you'll find a few Excel projects I've worked on. 
 
