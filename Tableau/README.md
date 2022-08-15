@@ -1,4 +1,4 @@
-# Tableau :bar chart:
+# Tableau :bar_chart:
 
 
 ## Heat Map Dashboard
