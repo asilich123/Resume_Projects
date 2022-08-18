@@ -8,7 +8,7 @@
 
 
 ## Dirty Data Before
-![alt text](?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/PANDAS%20-%20Cleaning%20Big%20Data/Images/Dirty%20Data.png?raw=true)
 
 ## Cleaned Data After
-![alt text](?raw=true)
+![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/PANDAS%20-%20Cleaning%20Big%20Data/Images/Clean%20Data.png?raw=true)
