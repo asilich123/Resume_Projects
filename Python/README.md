@@ -8,5 +8,5 @@ The Task: Explored the TensorFlow Hub by using a pretrained neural network modul
 
 Highlighted Abilities: TF Hub, Python, TensorFlow, NumPy, MatplotLib, Jupyter, and an understanding of Tensors, Arrays, and basic ML Computer Vision.
 
-Notes: Check out the project folder for additional collage !!
+Notes: Check out the project folder for additional project details and collage demonstrations. 
 # ![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Python/TF%20HUB%20-%20ML%20Neural%20Style%20Transfer/Images/Collages/Los%20Angeles%20Collage.png?raw=true)
