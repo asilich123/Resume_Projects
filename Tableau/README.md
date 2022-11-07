@@ -18,5 +18,3 @@ Here you'll find some of the Tableau visualizations I've created.
 **Highlighted Abilities:** Tableau Dashboarding, Creating Heat Maps, Geocoding Data to find Coordinates, Ad-Hoc speed development of relevant info. 
 
 **Notes:** This was an Ad-Hoc project requested to be completed as quick as possible. It's focus is on basic functionality over beauty and demonstrates my ability to quickly whip up a dashboard within a 30 minute timeframe. 
-
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Tableau/Heat%20Map%20Dashboard.png?raw=true)
