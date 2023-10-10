@@ -1,10 +1,10 @@
 # TensorFlow Hub Neural Style Transfer
 
-**The Task:** Explored the TensorFlow Hub by using a pretrained neural network module, Magenta Image Style Transfer, to transfer the art style of specific pieces to other photographs. 
+**The Task:** Explored the TensorFlow Hub by using a pre-trained neural network module, Magenta Image Style Transfer, to transfer the art style of specific pieces to other photographs. 
 
-**Highlighted Abilities:** TF Hub, Python, TensorFlow, NumPy, MatplotLib, Jupyter, and an understanding of Tensors, Arrays, and basic ML Computer Vision.
+**Highlighted Abilities:** TF Hub, Python, TensorFlow, NumPy, MatplotLib, Jupyter, and basic ML Computer Vision.
 
-**Notes:** Feel free to download and play around with it yourself. The file contains hand-written descriptive documentation that'll walk you through how it works and how to create your own style transferred images. 
+**Notes:** Feel free to download and play around with it yourself. The file contains hand-written descriptive documentation that'll walk you through how it works and how to create your own style-transferred images. 
 
 Check below for style transfer examples!
 
