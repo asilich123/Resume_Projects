@@ -1,2 +1,2 @@
 ## Resume
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Resume/Silich%20Resume%202022.png?raw=true)
+![alt text](https://drive.google.com/file/d/1FV39UWeN9cSZ-HioOf3t9Oiuo5GI8Hjb/view?usp=sharing)
