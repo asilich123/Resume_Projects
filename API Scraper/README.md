@@ -1,6 +1,14 @@
-# MLS Scraper
+# API Scraper
 
-**Highlighted Abilities:** Python, Building an ETL Pipeline, Selenium, Pandas, Data Scraping, Jupyter Notebooks
+**Highlighted Abilities:** Python, API Calls, Pandas, JSON, building ETLs
 
-**Description:** Create a program that scrapes property data from the CRMLS for competitor analysis using only the property's address. This is a tedious task that once took employees multiple hours of manual data entry for just a few hundred properties. This program's objective was to automate this task so employees could focus on the analysis of the data and not the entry of it. Start by searching the web to scrape tax roll data hosted on public web pages such as Redfin and Zillow. Store this data, then use it to access the current historical property record listing on the CRMLS. Extract this data, clean it, transform it into our competitor analysis schema, and load it into an Excel file. 
+**Description:** Was given a list of 10k+ products an investor was looking to do market research on. 
+  Scraped competitor data on each product to see which marketplace the investor could find an edge in.  
+  <br> <br>
+  Scraped JSON data for top 3 most comparable items from both Amazon and Walmart using scraperAPI. 
+  Parsed and ETL'd data using Pandas into an easily digestable data analysis breakdown for investor. 
+
+  <br>
+
+  ![API Scraper](https://github.com/asilich123/Resume_Projects/blob/main/API%20Scraper/Images/ApiScraper_Card%202.png)
 
