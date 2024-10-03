@@ -1,6 +1,14 @@
-# MLS Scraper
+# Capital Markets Revenue Prediction Model
 
-**Highlighted Abilities:** Python, Building an ETL Pipeline, Selenium, Pandas, Data Scraping, Jupyter Notebooks
+**Highlighted Abilities:** Python, Time Series Predictive Analysis, XGBoost, LightGBM, HyperOpt, MLFlow, Statistics
 
-**Description:** Create a program that scrapes property data from the CRMLS for competitor analysis using only the property's address. This is a tedious task that once took employees multiple hours of manual data entry for just a few hundred properties. This program's objective was to automate this task so employees could focus on the analysis of the data and not the entry of it. Start by searching the web to scrape tax roll data hosted on public web pages such as Redfin and Zillow. Store this data, then use it to access the current historical property record listing on the CRMLS. Extract this data, clean it, transform it into our competitor analysis schema, and load it into an Excel file. 
+**Description:** Built a time series forecasting model to predict Capital Markets monthly income. 
+  Cross-validated between multiple models (SARIMA, TBATS, XGBoost, LightGBM). 
+  Settled on a hybrid tree-based model that I featured engineered in economic trend and lagged delta and moving average data. 
+  Used Hyperopt Bayesian hyper-parameter optimization with a custom expanding window objective function to minimize loss. 
+  Improved the previous model's average prediction error from 24.79% to 3.96% 
+
+  <br>
+
+  ![Time Series](https://github.com/asilich123/Resume_Projects/blob/main/CM%20Revenue%20Prediction%20Model/Images/TimeSeries_Card%202.png)
 
