@@ -1,0 +1,68 @@
+
+/* Portfolio Image Track */
+#image-track {
+    display: flex;
+    gap: 4vmin;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    transform: translate(0%, -50%);
+    user-select: none;
+}
+/* Image on Portfolio Track */
+  /* 80% is position of image at track start */
+#image-track > .image {
+    width: 40vmin;
+    height: 56vmin;
+    object-fit: cover;
+    object-position: 80%;
+    
+}
+
+
+/* Click Help Icon Styling */
+#ClickHelp {
+    width: 14vw;
+    height: 4.8vw;
+    position: fixed;
+    left: 69vw;
+    top: 83.5%;
+    user-select: none;
+    visibility: hidden;
+}
+
+/* Drag Help Text Above Animation Styling */
+#DragText {
+  user-select: none;
+  width: 11vw;
+  height: 2.4vw;
+  position:fixed; 
+  top: 37.5%;
+  left: 10vw;
+  visibility: hidden;
+}
+
+/* Drag Help Icon Animation */
+#DragHelp {
+  user-select: none;
+  width: 3.5vw;
+  height: 3.4vw;
+  position:fixed; 
+  top: 43.5%;
+  animation: right-to-left 2.5s ease-in-out forwards;
+  animation-iteration-count: infinite;
+  visibility: hidden;
+}
+
+@keyframes right-to-left {
+  0% {
+    transform: translateX(19.5vw);
+  }
+  100% {
+    transform: translateX(8.5vw);
+  }
+}
+
+
+
+

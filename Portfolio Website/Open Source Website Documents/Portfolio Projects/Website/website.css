@@ -1,0 +1,59 @@
+
+/* -- Skill Icons -- */
+
+#IconsDiv {
+  position:absolute;
+  top:3.65vw;
+  left:2.1vw;
+}
+.SkillIcon {
+  position: absolute;
+}
+#HTML {
+  height:5.2vw; 
+  width:6.2vw;
+}
+#CSS {
+  height:5.2vw; 
+  width:4.5vw; 
+  left:9.2vw;
+}
+#Javascript {
+  height:5.2vw; 
+  width:7.2vw; 
+  left:16.5vw;
+}
+#Figma {
+  height:5.2vw; 
+  width:5.2vw; 
+  left:26vw;
+}
+
+
+/* -- Background Boxes -- */
+
+#SkillsBackground {
+  position:absolute;
+  height:10.4vw; 
+  width:60vw; 
+  top:12.4vw; 
+  left:43.75vw;
+}
+
+#SummaryBackground {
+  position:absolute;
+  height:13.1vw; 
+  width:60vw; 
+  top:24.25vw; 
+  left:43.75vw;
+}
+
+
+
+
+/* -- Github Button Location -- */
+
+.meta-link {
+  left: 84vw;
+  top: 38.15vw;
+}

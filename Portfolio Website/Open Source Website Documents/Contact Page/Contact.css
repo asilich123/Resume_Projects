@@ -1,0 +1,94 @@
+
+/* Style Header Text */
+#ContactText {
+  position:relative; 
+  left:7vw; 
+  top:10.4vw; 
+  width: 40vw;
+  line-height: 2;
+  font-family: "Kanit";
+  color: white;
+  font-size:1.6vw;
+}
+#ContactBackground {
+  position:absolute; 
+  height:12.5vw; 
+  width:55.8vw;  
+  top:9vw; 
+  left:-12vw; 
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+
+/* Illustration Styling */
+#illustration {
+  position:fixed; 
+  top:22.9vw; 
+  left:7vw; 
+  height:16.6vw; 
+  width:36vw;
+}
+
+
+
+/* -- Email Form -- */
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 2.5%;
+  border: 0.08vw solid #222222;
+  background-color: #80808089;
+  font-family: "Kanit";
+  font-size: 0.92vw;
+  top: 10vw;
+  margin-bottom: 1.1vw;
+  resize: vertical;
+  color: white;
+}
+
+input[type=submit] {
+  background-color: #f88c1fb5;
+  color: white;
+  padding: 0.8vw 1.5vw;
+  font-size: 0.92vw;
+  border: none;
+  font-family:"Kanit";
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #f88c1f87;
+  font-family:"Kanit";
+}
+
+.inputField:focus{
+  outline: none;
+  border:0.15vw solid #f1af6c78;
+}
+
+#body {
+  height:13.5vw
+}
+
+/* Style the container that holds the whole form */
+#InputForm {
+  border-radius: 0.37vw;
+  background-color: #5454544e;
+  padding: 0.72vw;
+  font-family: "Kanit";
+  font-size: 1.1vw;
+  color: rgb(225, 225, 225);
+  height:36vw;
+  width:41.7vw; 
+  position:relative; 
+  left:46.5vw;
+}
+
+/* Create invisible column that add spaces to the right of the form + padding all around */
+.column {
+  float: left;
+  width: 85%;
+  padding: 1.75%;
+}
+

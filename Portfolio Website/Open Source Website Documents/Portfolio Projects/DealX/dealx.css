@@ -1,0 +1,63 @@
+
+/* -- Skill Icons -- */
+
+#IconsDiv {
+  position:absolute;
+  top:3.65vw;
+  left:2.1vw;
+}
+.SkillIcon {
+  position: absolute;
+}
+#Python {
+  height:5.2vw; 
+  width:5.2vw;
+}
+#PySpark {
+  height:5vw; 
+  width:10vw; 
+  left:6.25vw;
+  top:-0.3vw;
+}
+#Tableau {
+  height:5.625vw; 
+  width:10vw; 
+  left:17vw;
+  top:-0.4vw;
+}
+#Salesforce {
+  height:5.6vw; 
+  width:8vw;  
+  left:29vw;
+  top:-0.2vw;
+}
+
+
+
+/* -- Background Boxes -- */
+
+#SkillsBackground {
+  position:absolute;
+  height:10.4vw; 
+  width:60vw; 
+  top:12.4vw; 
+  left:43.75vw;
+}
+
+#SummaryBackground {
+  position:absolute;
+  height:13.1vw; 
+  width:60vw; 
+  top:24.25vw; 
+  left:43.75vw;
+}
+
+
+/* -- Github Button Location -- */
+
+.meta-link {
+  left: 84vw;
+  top: 38.15vw;
+}
+
+

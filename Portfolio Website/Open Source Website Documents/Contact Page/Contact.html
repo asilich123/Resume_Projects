@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+  <title>Adrian Silich  |  Contact</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<!-- Imports for Icon, Fonts, and CSS -->
+<link rel="icon", href="Icon.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../general.css">
+<link rel="stylesheet" href="Contact.css">
+
+
+<!-- Logos -->
+<img id="BrainLogo" src="Personal_Brand/BrainLogo.png">
+<img id="TextLogo" src="Personal_Brand/TextLogo.png">
+
+
+<!-- TOP NAVIGATION BAR -->
+<ul class="menu">
+  <li><a href="https://adriansilich.com/" data-hover="Home">HOME</a></li>
+  <li><a href="https://adriansilich.com/Portfolio%20Page/portfolio.html" data-hover="Portfolio">PORTFOLIO</a></li>
+  <li><a href="https://adriansilich.com/About%20Page/About.html" data-hover="About">ABOUT</a></li>
+  <li class="current"><a href="https://adriansilich.com/Contact%20Page/Contact.html" data-hover="Contact">CONTACT</a></li>
+</ul>
+
+
+
+
+<!-- Contact Text -->
+<div class="Description" id="ContactText" >
+  Have a question? Want to reach out? <br> &ensp; Send me an email and I’ll get right back to you!
+</div>  
+<div class="BackgroundBox" id="ContactBackground">
+</div>
+
+<!-- Contact Illustration -->
+<img id="illustration" src="contactIllustration.png">
+
+
+<!-- Input Form -->
+<div class="container" id="InputForm">
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <!-- Send form to your email -->
+      <form action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="7926c583-b686-412a-abd9-be344e14807c">
+        <!-- Form inputs -->
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" class="inputField" placeholder="Your name...">
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" class="inputField" placeholder="Your email...">
+        <label for="body">Body</label>
+        <textarea id="body" name="body" class="inputField" placeholder="Write something..."></textarea>
+        <!-- Botcheck + Submit button -->
+        <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<!-- Footer Contact Bar -->
+<div class="FooterContact">
+  <img id="hLineRight" src="Footer/hLine.png">
+  <a href="mailto:silichja@gmail.com" target="_blank">
+  <img id="Gmail" src="Footer/gmailLogo.png"> </a>
+  <a href="https://github.com/asilich123" target="_blank">
+  <img id="GitHub" src="Footer/githubLogo.png"> </a>
+  <a href="https://www.linkedin.com/in/adrian-silich/" target="_blank">
+  <img id="LinkedIn" src="Footer/linkedinLogo.png"></a>
+  <img id="hLineLeft" src="Footer/hLine.png">
+</div>
+
+</html>

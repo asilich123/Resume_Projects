@@ -1,0 +1,150 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('Background.png');
+    background-size: cover;                    
+    background-repeat: no-repeat;
+    margin: 0rem;
+    overflow: hidden;
+}
+
+
+/* -- Icons -- */
+
+#BrainLogo {
+  position: fixed;
+  height: 4.6vw;
+  width: 4.5vw;
+  top: 1vw;
+  right: 1vw;
+  user-select: none
+}
+#TextLogo {
+  position: fixed;
+  height: 3.05vw;
+  width: 14.8vw;
+  bottom: 1.5vw;
+  left: 2.5vw;
+  user-select: none
+}
+
+
+
+/* -- Navigation Bar Styling -- */
+
+*{
+  box-sizing: border-box;
+}
+.menu{
+  font-family: "Kanit", Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.67vw;
+  position:fixed; 
+  left:-35px;
+  top:-0.3%;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;  
+  user-select: none 
+}
+.menu li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 1em;
+  overflow: hidden;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu a{
+  padding: 0 0em 0 0.5em;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  letter-spacing: 1px;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.766);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu a::before,
+.menu a::after{
+  position: absolute;
+  transition: all 0.35s ease;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu a::before{
+  left: 100%;
+  display: block;
+  width: 3px;
+  height: 100%;
+  content: "";
+  background-color: #f39c12;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu a::after{
+  padding: 0 0.2em 0 0.5em;
+  position: absolute;
+  left: 100%;
+  top: 0;
+  content: attr(data-hover);
+  color: white;
+  white-space: nowrap;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.menu li:hover a,
+.menu .current a{
+  transform: translateX(-100%);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+
+
+
+
+/* -- Footer -- */
+
+.FooterContact {
+  position:absolute; 
+  height: 4.85vw ;
+  width: 31vw ;
+  left:36.1vw; 
+  bottom:0vw;
+}
+#hLineRight {
+  position:absolute; 
+  height:51%; 
+  width:22.5%; 
+  top:17%;
+  left:0%;
+}
+#Gmail {
+  position:absolute;
+  height:46%; 
+  width:7.2%; 
+  left:29.5%;
+  top:19%;
+}
+#GitHub {
+  position:absolute; 
+  height:46%; 
+  width:7.2%; 
+  left:46.3%;
+  top:19%;
+}
+#LinkedIn {
+  position:absolute; 
+  height:46%; 
+  width:7.2%;  
+  left:63.3%;
+  top:19%;
+}
+#hLineLeft {
+  position:absolute;
+  height:51%; 
+  width:22.5%; 
+  top:17%;
+  left:77.3%;
+}

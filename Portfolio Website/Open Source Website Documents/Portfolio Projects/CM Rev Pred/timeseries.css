@@ -1,0 +1,68 @@
+
+/* -- Skill Icons -- */
+
+#IconsDiv {
+  position:absolute;
+  top:3.65vw;
+  left:2.1vw;
+}
+.SkillIcon {
+  position: absolute;
+}
+#Python {
+  height:5.2vw; 
+  width:5.2vw;
+}
+#TimeSeries {
+  height:5.2vw; 
+  width:5.2vw; 
+  left:7.5vw;
+}
+#XGBoost {
+  height:4vw; 
+  width:10.5vw; 
+  left:13.5vw;
+  top:0.5vw;
+}
+#HyperOpt {
+  height:6vw; 
+  width:5vw; 
+  top:-0.35vw; 
+  left:25.5vw;
+}
+#MLFlow {
+  height:3.5vw; 
+  width:9vw; 
+  top:0.8vw; 
+  left:32vw;
+}
+
+
+
+/* -- Background Boxes -- */
+
+#SkillsBackground {
+  position:absolute;
+  height:10.4vw; 
+  width:60vw; 
+  top:12.4vw; 
+  left:43.75vw;
+}
+
+#SummaryBackground {
+  position:absolute;
+  height:13.1vw; 
+  width:60vw; 
+  top:24.25vw; 
+  left:43.75vw;
+}
+
+
+/* -- Github Button Location -- */
+
+.meta-link {
+  left: 84vw;
+  top: 38.15vw;
+}
+
+

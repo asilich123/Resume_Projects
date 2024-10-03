@@ -1,0 +1,62 @@
+
+/* -- Skill Icons -- */
+
+#IconsDiv {
+  position:absolute;
+  top:3.65vw;
+  left:2.1vw;
+}
+.SkillIcon {
+  position: absolute;
+}
+#TensorFlow {
+  height:5.2vw; 
+  width:5.2vw;
+  left:0.4vw;
+}
+#Python {
+  height:5.2vw; 
+  width:5.2vw; 
+  left:8.2vw;
+}
+#Numpy {
+  height:5.2vw; 
+  width:5.2vw; 
+  left:16.5vw;
+}
+#compVision {
+  height:8vw; 
+  width:8vw; 
+  top:-1.5vw; 
+  left:23.3vw;
+}
+
+
+
+/* -- Background Boxes -- */
+
+#SkillsBackground {
+  position:absolute;
+  height:10.4vw; 
+  width:60vw; 
+  top:12.4vw; 
+  left:43.75vw;
+}
+
+#SummaryBackground {
+  position:absolute;
+  height:13.1vw; 
+  width:60vw; 
+  top:24.25vw; 
+  left:43.75vw;
+}
+
+
+/* -- Github Button Location -- */
+
+.meta-link {
+  left: 84vw;
+  top: 38.15vw;
+}
+
+

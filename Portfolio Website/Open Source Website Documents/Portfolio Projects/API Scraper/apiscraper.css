@@ -1,0 +1,68 @@
+
+/* -- Skill Icons -- */
+
+#IconsDiv {
+  position:absolute;
+  top:3.65vw;
+  left:2.1vw;
+}
+.SkillIcon {
+  position: absolute;
+}
+#Python {
+  height:5.2vw; 
+  width:5.2vw;
+}
+#APICall {
+  height:6.5vw; 
+  width:6.5vw; 
+  left:7vw;
+  top:-0.7vw;
+}
+#Pandas {
+  height:3.5vw; 
+  width:10vw; 
+  top:0.85vw; 
+  left:15.5vw;
+}
+#ETL {
+  height:5.2vw; 
+  width:5.2vw; 
+  left:27.5vw;
+}
+#JSON {
+  height:4.5vw; 
+  width:4.5vw; 
+  left:35vw;
+  top:0.3vw;
+}
+
+
+
+/* -- Background Boxes -- */
+
+#SkillsBackground {
+  position:absolute;
+  height:10.4vw; 
+  width:60vw; 
+  top:12.4vw; 
+  left:43.75vw;
+}
+
+#SummaryBackground {
+  position:absolute;
+  height:13.1vw; 
+  width:60vw; 
+  top:24.25vw; 
+  left:43.75vw;
+}
+
+
+/* -- Github Button Location -- */
+
+.meta-link {
+  left: 84vw;
+  top: 38.15vw;
+}
+
+
