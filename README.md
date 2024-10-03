@@ -1,6 +1,6 @@
 # Resume Projects
 
-Explore in great detail via my personal portfolio website! 
+Explore in greater detail via my personal portfolio website! 
 
 ## https://adriansilich.com
 
