@@ -6,6 +6,8 @@
   images and used Magenta to transfer the art style of one piece onto another. <br> <br>
   Load neural network -> flatten images into 3 color channel 32bit numpy arrays -> feed model -> squeeze back into image format
 
-  <br>
+### https://adriansilich.com/Portfolio%20Projects/Style%20Transfer/transfer.html
+
+<br>
 
 ![Style Transfer](https://github.com/asilich123/Resume_Projects/blob/main/ML%20Neural%20Style%20Transfer/Images/StyleTransfer_Card%202.png)

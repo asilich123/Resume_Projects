@@ -8,6 +8,8 @@
   Scraped JSON data for top 3 most comparable items from both Amazon and Walmart using scraperAPI. 
   Parsed and ETL'd data using Pandas into an easily digestable data analysis breakdown for investor. 
 
+### https://adriansilich.com/Portfolio%20Projects/API%20Scraper/apiscraper.html
+
   <br>
 
   ![API Scraper](https://github.com/asilich123/Resume_Projects/blob/main/API%20Scraper/Images/ApiScraper_Card%202.png)

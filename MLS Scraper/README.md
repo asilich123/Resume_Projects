@@ -7,6 +7,8 @@
   Scrape tax roll data hosted on Redfin and Zillow -> Use to access historical property record listings on the CRMLS ->
   Extract historical data -> clean it and transform it into competitor analysis schema -> load it into database as CSV file.
 
+### https://adriansilich.com/Portfolio%20Projects/Web%20Scraper/scraper.html
+
 <br>
 
 ![MLS Scraper](https://github.com/asilich123/Resume_Projects/blob/main/MLS%20Scraper/Images/Scraper_Card%202.png)

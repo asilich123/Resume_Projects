@@ -8,7 +8,9 @@
   <br> <br>
   Cut costs from $6 million/year to roughly $40k/year, with a 94% pilot user preference rate, and used exclusively for 83% of deals in the US
 
-  <br>
+### https://adriansilich.com/Portfolio%20Projects/DealX/dealx.html
 
-  ![DealX](https://github.com/asilich123/Resume_Projects/blob/main/DealX/Images/DealX_Card%202.png)
+<br>
+
+![DealX](https://github.com/asilich123/Resume_Projects/blob/main/DealX/Images/DealX_Card%202.png)
 

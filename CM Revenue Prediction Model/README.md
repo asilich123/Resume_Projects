@@ -8,7 +8,9 @@
   Used Hyperopt Bayesian hyper-parameter optimization with a custom expanding window objective function to minimize loss. 
   Improved the previous model's average prediction error from 24.79% to 3.96% 
 
-  <br>
+### https://adriansilich.com/Portfolio%20Projects/CM%20Rev%20Pred/timeseries.html
 
-  ![Time Series](https://github.com/asilich123/Resume_Projects/blob/main/CM%20Revenue%20Prediction%20Model/Images/TimeSeries_Card%202.png)
+<br>
+
+![Time Series](https://github.com/asilich123/Resume_Projects/blob/main/CM%20Revenue%20Prediction%20Model/Images/TimeSeries_Card%202.png)
 
