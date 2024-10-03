@@ -1,7 +1,12 @@
 # MLS Scraper
 
-**The Task:** Create a program that scrapes property data from the CRMLS for competitor analysis using only the property's address. This is a tedious task that once took employees multiple hours of manual data entry for just a few hundred properties. This program's objective was to automate this task so employees could focus on the analysis of the data and not the entry of it. Start by searching the web to scrape tax roll data hosted on public web pages such as Redfin and Zillow. Store this data, then use it to access the current historical property record listing on the CRMLS. Extract this data, clean it, transform it into our competitor analysis schema, and load it into an Excel file. 
+**Highlighted Abilities:** Python, Building an ETL Pipeline, Selenium, Pandas, Data Scraping
 
-**Highlighted Abilities:** Python, Building an ETL Pipeline, Selenium, Pandas, Data Scraping, Jupyter Notebooks
+**Description:** Bot that scrapes historical property data for a competitor analysis using only property addresses. 
+  Automates a tedious task that takes multiple hours of manual data entry. <br>
+  Scrape tax roll data hosted on Redfin and Zillow -> Use to access historical property record listings on the CRMLS ->
+  Extract historical data -> clean it and transform it into competitor analysis schema -> load it into database as CSV file.
 
-**Notes:** Check out the Python file for specific documentation on what steps I took to clean the data. 
+<br>
+
+![MLS Scraper](https://github.com/asilich123/Resume_Projects/blob/main/MLS%20Scraper/Images/Scraper_Card%202.png)
