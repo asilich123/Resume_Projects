@@ -4,5 +4,6 @@ Explore in greater detail via my personal portfolio website!
 
 ## https://adriansilich.com
 
+<br>
 
-![alt text](https://drive.google.com/file/d/1FV39UWeN9cSZ-HioOf3t9Oiuo5GI8Hjb/view)
+![Resume](https://github.com/asilich123/Resume_Projects/blob/main/Resume/Resume%20Photo.png)
