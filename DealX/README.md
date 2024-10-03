@@ -1,6 +1,14 @@
 # MLS Scraper
 
-**Highlighted Abilities:** Python, Building an ETL Pipeline, Selenium, Pandas, Data Scraping, Jupyter Notebooks
+**Highlighted Abilities:** Python, PySpark (Scala), Tableau, Salesforce
 
-**Description:** Create a program that scrapes property data from the CRMLS for competitor analysis using only the property's address. This is a tedious task that once took employees multiple hours of manual data entry for just a few hundred properties. This program's objective was to automate this task so employees could focus on the analysis of the data and not the entry of it. Start by searching the web to scrape tax roll data hosted on public web pages such as Redfin and Zillow. Store this data, then use it to access the current historical property record listing on the CRMLS. Extract this data, clean it, transform it into our competitor analysis schema, and load it into an Excel file. 
+**Description:** Built the data analytics side to a JLL exclusive deal room platform that replaced multiple facets of Salesforce, RCM, Revere, 
+  and other 3rd party applications, bringing them into one place. Supplemented with Adoption and Scorecard dashboards to help drive
+  usage of the platform.
+  <br> <br>
+  Cut costs from $6 million/year to roughly $40k/year, with a 94% pilot user preference rate, and used exclusively for 83% of deals in the US
+
+  <br>
+
+  ![DealX](https://github.com/asilich123/Resume_Projects/blob/main/DealX/Images/DealX_Card%202.png)
 
