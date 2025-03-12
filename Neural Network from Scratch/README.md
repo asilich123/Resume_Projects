@@ -1,4 +1,4 @@
-# Building a Neural Network from Scratch
+# Building a Neural Network With Only Numpy
 
 **Highlighted Abilities:** Python, Numpy, Neural Networks, Deep Learning Architecture, Basic Computer Vision
 
