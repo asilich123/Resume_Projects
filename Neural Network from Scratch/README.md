@@ -1,8 +1,16 @@
 # Building a Neural Network from Scratch
 
-**Highlighted Abilities:** Python, Numpy, Neural Networks, Computer Vision
+**Highlighted Abilities:** Python, Numpy, Neural Networks, Deep Learning Architecture, Basic Computer Vision
 
-**Description:** Built a neural network from scratch using numpy. Tested a vanilla neural network on the Fashion MNIST classifier to pull a list of weights. Created a forward propagation model with the set weights. Afterwards, developed hidden layers with back propagation in order to train the networks own weights. 
+**Description:** Built a gradient descent neural network with forward and back propagation using only vanilla Python and Numpy. 
+
+Network featured 3 hidden layers that used a ReLU activation function. 
+
+Applied network to the traditional MNIST and fashion MNIST classifiers for 500 epochs. 
+
+Traditional MNIST achieved train/test accuracy of 90.54%/90.48% respectively
+
+Fashion MNIST achieved train/test accuracy of 80.59%/80.31% respectively 
 
 ### https://adriansilich.com/Portfolio%20Projects/Neural%20Network/neuralnetwork.html
 
